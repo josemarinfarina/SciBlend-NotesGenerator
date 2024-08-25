@@ -54,6 +54,9 @@ Before installing Blender and the add-on, ensure that you meet the following req
     - Access the add-on from the `3D Viewport` sidebar under the `Notes Generator` tab.
     - Configure your annotations and apply them to your scientific data visualizations.
 
+      
+![1](https://github.com/user-attachments/assets/e238bfbd-0f72-4487-92da-b6a9f7742639)
+
 ## Usage
 
 Once the add-on is installed and enabled, you can use it to generate and apply 3D annotations in Blender:
